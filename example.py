@@ -7,3 +7,6 @@ def test_add():
 
 def subtract(a, b):
     return a + b  # do not change this line until prompted to do so.
+
+def test_subtract():
+    assert(3, 2) == 1
